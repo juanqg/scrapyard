@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-aspnet-web-pages-2/displaying-data
+
 @{
 
     Validation.RequireField("title", "You must enter a title");
